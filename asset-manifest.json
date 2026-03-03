@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ghumarepratham/hosting_frontend.git/static/css/main.d522f506.css",
+    "main.js": "/ghumarepratham/hosting_frontend.git/static/js/main.b8cee430.js",
+    "static/js/453.20359781.chunk.js": "/ghumarepratham/hosting_frontend.git/static/js/453.20359781.chunk.js",
+    "index.html": "/ghumarepratham/hosting_frontend.git/index.html",
+    "main.d522f506.css.map": "/ghumarepratham/hosting_frontend.git/static/css/main.d522f506.css.map",
+    "main.b8cee430.js.map": "/ghumarepratham/hosting_frontend.git/static/js/main.b8cee430.js.map",
+    "453.20359781.chunk.js.map": "/ghumarepratham/hosting_frontend.git/static/js/453.20359781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d522f506.css",
+    "static/js/main.b8cee430.js"
+  ]
+}
